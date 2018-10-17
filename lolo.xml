@@ -10,7 +10,11 @@
  </answer>
  <answer fraction="0">
      <text>Another distractor</text>
+<<<<<<< HEAD
     <feedback><text>Ooops!</text></feedback>
+=======
+    <feedback><text>Ooopds!</text></feedback>
+>>>>>>> lolo
  </answer>
  <shuffleanswers>1</shuffleanswers>
  <single>true</single>

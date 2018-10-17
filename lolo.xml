@@ -19,4 +19,5 @@
  <shuffleanswers>1</shuffleanswers>
  <single>true</single>
  <answernumbering>abc</answernumbering>
+<test></test>
 </question>
